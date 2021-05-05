@@ -2217,6 +2217,64 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 13134,King's Row,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Junkrat', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2018.0
 13134,Lijiang Tower,London Spitfire,"['D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Tracer', 'Widowmaker', 'Winston', 'Zenyatta']",win,win,2018.0
 13134,Lijiang Tower,Philadelphia Fusion,"['D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Tracer', 'Widowmaker', 'Winston', 'Zenyatta']",lose,lose,2018.0
+20301,Hollywood,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20301,Hollywood,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+20301,Ilios,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Orisa', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20301,Ilios,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+20301,Rialto,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Pharah', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20301,Rialto,Seoul Dynasty,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+20301,Volskaya Industries,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Mei', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+20301,Volskaya Industries,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+20302,Ilios,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20302,Ilios,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Moira', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+20302,King's Row,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20302,King's Row,Vancouver Titans,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+20302,Temple of Anubis,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20302,Temple of Anubis,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+20303,Ilios,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Orisa', 'Reinhardt', 'Torbjörn', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+20303,Ilios,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+20303,King's Row,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20303,King's Row,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+20303,Route 66,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20303,Route 66,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+20303,Volskaya Industries,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20303,Volskaya Industries,Philadelphia Fusion,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+20304,Busan,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+20304,Busan,Toronto Defiant,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20304,Horizon Lunar Colony,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Symmetra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+20304,Horizon Lunar Colony,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20304,King's Row,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+20304,King's Row,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20305,Busan,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20305,Busan,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+20305,Hollywood,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20305,Hollywood,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Orisa', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",win,win,2019.0
+20305,Rialto,Seoul Dynasty,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Orisa', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20305,Rialto,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+20305,Temple of Anubis,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Roadhog', 'Sombra', 'Symmetra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20305,Temple of Anubis,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+20306,Dorado,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20306,Dorado,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+20306,Ilios,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+20306,Ilios,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+20306,King's Row,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20306,King's Row,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+20306,Nepal,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+20306,Nepal,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+20306,Numbani,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20306,Numbani,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+20306,Rialto,San Francisco Shock,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20306,Rialto,Vancouver Titans,"['Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+20306,Temple of Anubis,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+20306,Temple of Anubis,Vancouver Titans,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Roadhog', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+20307,Hollywood,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20307,Hollywood,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+20307,Horizon Lunar Colony,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20307,Horizon Lunar Colony,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+20307,Ilios,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20307,Ilios,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+20307,Rialto,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+20307,Rialto,San Francisco Shock,"['Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 20311,Eichenwalde,San Francisco Shock,"['Ana', 'Baptiste', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
 20311,Eichenwalde,Shanghai Dragons,"['Ana', 'Brigitte', 'Doomfist', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 20311,Oasis,San Francisco Shock,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Moira', 'Reinhardt', 'Roadhog', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
@@ -2339,6 +2397,178 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 20327,Oasis,San Francisco Shock,"['Ana', 'Baptiste', 'D.Va', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Zarya', 'Zenyatta']",win,win,2019.0
 20327,Volskaya Industries,Los Angeles Valiant,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya']",lose,lose,2019.0
 20327,Volskaya Industries,San Francisco Shock,"['Ana', 'Baptiste', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reaper', 'Reinhardt', 'Roadhog', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21126,Horizon Lunar Colony,Dallas Fuel,"['Ana', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21126,Horizon Lunar Colony,San Francisco Shock,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Moira', 'Reaper', 'Reinhardt', 'Sombra', 'Symmetra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21126,King's Row,Dallas Fuel,"['Ana', 'Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21126,King's Row,San Francisco Shock,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21126,Nepal,Dallas Fuel,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21126,Nepal,San Francisco Shock,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21126,Rialto,Dallas Fuel,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21126,Rialto,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21127,Horizon Lunar Colony,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21127,Horizon Lunar Colony,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21127,Ilios,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21127,Ilios,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21127,King's Row,New York Excelsior,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Pharah', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21127,King's Row,Washington Justice,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21127,Rialto,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Pharah', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21127,Rialto,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21128,Busan,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21128,Busan,San Francisco Shock,"['Ana', 'Ashe', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21128,Hollywood,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21128,Hollywood,San Francisco Shock,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21128,Horizon Lunar Colony,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reaper', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21128,Horizon Lunar Colony,San Francisco Shock,"['Bastion', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21128,Ilios,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21128,Ilios,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Moira', 'Orisa', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21128,Rialto,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21128,Rialto,San Francisco Shock,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Tracer', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21129,Busan,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21129,Busan,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21129,Dorado,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21129,Dorado,Los Angeles Gladiators,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21129,Numbani,London Spitfire,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21129,Numbani,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21129,Volskaya Industries,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21129,Volskaya Industries,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21130,Horizon Lunar Colony,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Mercy', 'Reaper', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21130,Horizon Lunar Colony,Houston Outlaws,"['Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21130,Ilios,Florida Mayhem,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21130,Ilios,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Reaper', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21130,King's Row,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mei', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21130,King's Row,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21130,Rialto,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21130,Rialto,Houston Outlaws,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21176,Busan,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Sombra', 'Tracer', 'Winston', 'Zarya']",win,win,2019.0
+21176,Busan,Shanghai Dragons,"['Brigitte', 'Lúcio', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",lose,lose,2019.0
+21176,Hollywood,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21176,Hollywood,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21176,Horizon Lunar Colony,Hangzhou Spark,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21176,Horizon Lunar Colony,Shanghai Dragons,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Genji', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reaper', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",win,lose,2019.0
+21176,Rialto,Hangzhou Spark,"['Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21176,Rialto,Shanghai Dragons,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reaper', 'Reinhardt', 'Sombra', 'Symmetra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21177,Busan,Houston Outlaws,"['Ana', 'Brigitte', 'Lúcio', 'McCree', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",lose,lose,2019.0
+21177,Busan,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zenyatta']",win,win,2019.0
+21177,Nepal,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Roadhog', 'Soldier: 76', 'Sombra', 'Symmetra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21177,Nepal,Toronto Defiant,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21177,Numbani,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21177,Numbani,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21177,Route 66,Houston Outlaws,"['Ashe', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Mercy', 'Orisa', 'Pharah', 'Reaper', 'Reinhardt', 'Torbjörn', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21177,Route 66,Toronto Defiant,"['Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reaper', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21177,Volskaya Industries,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Pharah', 'Reaper', 'Reinhardt', 'Sombra', 'Symmetra', 'Torbjörn', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21177,Volskaya Industries,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21178,Busan,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21178,Busan,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21178,Dorado,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",win,win,2019.0
+21178,Dorado,Toronto Defiant,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21178,Horizon Lunar Colony,Atlanta Reign,"['Bastion', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mei', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21178,Horizon Lunar Colony,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reaper', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21178,Numbani,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21178,Numbani,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21179,Busan,Hangzhou Spark,"['D.Va', 'Lúcio', 'Moira', 'Sombra', 'Tracer', 'Winston']",lose,lose,2019.0
+21179,Busan,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",win,win,2019.0
+21179,Dorado,Hangzhou Spark,"['Ashe', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21179,Dorado,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Torbjörn', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21179,King's Row,Hangzhou Spark,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Pharah', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21179,King's Row,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21179,Temple of Anubis,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21179,Temple of Anubis,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Torbjörn', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21180,Dorado,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21180,Dorado,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reaper', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21180,Hollywood,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21180,Hollywood,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21180,Horizon Lunar Colony,Los Angeles Valiant,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Mercy', 'Moira', 'Pharah', 'Reaper', 'Reinhardt', 'Roadhog', 'Sombra', 'Symmetra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21180,Horizon Lunar Colony,Toronto Defiant,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21180,Ilios,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21180,Ilios,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Pharah', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21209,Ilios,London Spitfire,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Orisa', 'Pharah', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21209,Ilios,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21209,King's Row,London Spitfire,"['Brigitte', 'Hanzo', 'Lúcio', 'Mercy', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21209,King's Row,Paris Eternal,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Moira', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21209,Route 66,London Spitfire,"['Bastion', 'Brigitte', 'Hanzo', 'Lúcio', 'Mercy', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21209,Route 66,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21209,Volskaya Industries,London Spitfire,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Genji', 'Hanzo', 'Junkrat', 'Lúcio', 'Mercy', 'Pharah', 'Reaper', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21209,Volskaya Industries,Paris Eternal,"['Brigitte', 'D.Va', 'Doomfist', 'Genji', 'Hanzo', 'Lúcio', 'Moira', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21210,Busan,London Spitfire,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reaper', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21210,Busan,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21210,Horizon Lunar Colony,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21210,Horizon Lunar Colony,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reaper', 'Reinhardt', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21210,Nepal,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21210,Nepal,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21210,Numbani,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21210,Numbani,Washington Justice,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21210,Rialto,London Spitfire,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21210,Rialto,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21211,Hollywood,London Spitfire,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21211,Hollywood,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21211,Ilios,London Spitfire,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Orisa', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21211,Ilios,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21211,Rialto,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21211,Rialto,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21211,Volskaya Industries,London Spitfire,"['Ana', 'Ashe', 'Brigitte', 'D.Va', 'Doomfist', 'Genji', 'Lúcio', 'McCree', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21211,Volskaya Industries,Philadelphia Fusion,"['Ashe', 'Brigitte', 'D.Va', 'Doomfist', 'Genji', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Torbjörn', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21212,Busan,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Roadhog', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21212,Busan,Guangzhou Charge,"['Ana', 'Brigitte', 'Lúcio', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball']",win,lose,2019.0
+21212,Dorado,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21212,Dorado,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya']",lose,lose,2019.0
+21212,Nepal,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21212,Nepal,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21212,Numbani,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Symmetra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21212,Numbani,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21212,Volskaya Industries,Chengdu Hunters,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Mei', 'Mercy', 'Moira', 'Sombra', 'Symmetra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21212,Volskaya Industries,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zenyatta']",win,lose,2019.0
+21213,Dorado,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21213,Dorado,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reaper', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21213,Hollywood,Boston Uprising,"['Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21213,Hollywood,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21213,Ilios,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21213,Ilios,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21213,Nepal,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Roadhog', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21213,Nepal,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21213,Volskaya Industries,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21213,Volskaya Industries,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Symmetra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21214,Busan,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21214,Busan,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya']",win,win,2019.0
+21214,Horizon Lunar Colony,Florida Mayhem,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21214,Horizon Lunar Colony,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Sombra', 'Symmetra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21214,Ilios,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21214,Ilios,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21214,Numbani,Florida Mayhem,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21214,Numbani,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Genji', 'Lúcio', 'Reinhardt', 'Sombra', 'Torbjörn', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21214,Rialto,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21214,Rialto,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21215,Busan,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21215,Busan,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21215,Dorado,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Mercy', 'Orisa', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",lose,lose,2019.0
+21215,Dorado,Shanghai Dragons,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21215,Numbani,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21215,Numbani,Shanghai Dragons,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21215,Volskaya Industries,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21215,Volskaya Industries,Shanghai Dragons,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Mercy', 'Reinhardt', 'Roadhog', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21216,Busan,Houston Outlaws,"['Ana', 'Brigitte', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21216,Busan,Los Angeles Valiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21216,Numbani,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21216,Numbani,Los Angeles Valiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21216,Route 66,Houston Outlaws,"['Brigitte', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Symmetra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21216,Route 66,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21216,Volskaya Industries,Houston Outlaws,"['Brigitte', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21216,Volskaya Industries,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Moira', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21217,Hollywood,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21217,Hollywood,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21217,Nepal,London Spitfire,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21217,Nepal,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21217,Route 66,London Spitfire,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21217,Route 66,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Symmetra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21217,Temple of Anubis,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21217,Temple of Anubis,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Symmetra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21218,Horizon Lunar Colony,Atlanta Reign,"['Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21218,Horizon Lunar Colony,Houston Outlaws,"['Ana', 'D.Va', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Sombra', 'Torbjörn', 'Tracer', 'Wrecking Ball', 'Zenyatta']",lose,lose,2019.0
+21218,Ilios,Atlanta Reign,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Orisa', 'Reinhardt', 'Torbjörn', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21218,Ilios,Houston Outlaws,"['Brigitte', 'Lúcio', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21218,King's Row,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Reinhardt', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21218,King's Row,Houston Outlaws,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21218,Rialto,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21218,Rialto,Houston Outlaws,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21219,Busan,Los Angeles Gladiators,"['Ana', 'Lúcio', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball']",lose,win,2019.0
 21219,Busan,Shanghai Dragons,"['Ana', 'Lúcio', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball']",win,lose,2019.0
 21219,King's Row,Los Angeles Gladiators,"['Ana', 'Ashe', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Genji', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
@@ -2355,6 +2585,72 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21220,Oasis,Paris Eternal,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Mercy', 'Pharah', 'Soldier: 76', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball']",lose,lose,2019.0
 21220,Rialto,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21220,Rialto,Paris Eternal,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21221,Horizon Lunar Colony,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21221,Horizon Lunar Colony,New York Excelsior,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mei', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21221,Nepal,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21221,Nepal,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21221,Numbani,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21221,Numbani,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Mei', 'Reaper', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21221,Route 66,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21221,Route 66,New York Excelsior,"['Bastion', 'Brigitte', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21222,Busan,Shanghai Dragons,"['Brigitte', 'Doomfist', 'Lúcio', 'Moira', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",lose,lose,2019.0
+21222,Busan,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21222,Dorado,Shanghai Dragons,"['D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zenyatta']",lose,lose,2019.0
+21222,Dorado,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'McCree', 'Mercy', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21222,Hollywood,Shanghai Dragons,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21222,Hollywood,Vancouver Titans,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21222,Temple of Anubis,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Torbjörn', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21222,Temple of Anubis,Vancouver Titans,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21223,Nepal,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21223,Nepal,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21223,Numbani,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21223,Numbani,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21223,Route 66,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21223,Route 66,Seoul Dynasty,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21223,Temple of Anubis,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21223,Temple of Anubis,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21224,Horizon Lunar Colony,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Mercy', 'Moira', 'Orisa', 'Reaper', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21224,Horizon Lunar Colony,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21224,King's Row,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21224,King's Row,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Zarya', 'Zenyatta']",win,win,2019.0
+21224,Nepal,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21224,Nepal,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21224,Rialto,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21224,Rialto,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21225,Horizon Lunar Colony,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Reaper', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21225,Horizon Lunar Colony,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21225,Ilios,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21225,Ilios,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21225,King's Row,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21225,King's Row,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21225,Rialto,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21225,Rialto,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21226,Hollywood,Dallas Fuel,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21226,Hollywood,Shanghai Dragons,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21226,Nepal,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21226,Nepal,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21226,Route 66,Dallas Fuel,"['Ana', 'Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Symmetra', 'Tracer', 'Zarya', 'Zenyatta']",win,win,2019.0
+21226,Route 66,Shanghai Dragons,"['Ana', 'Brigitte', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21226,Temple of Anubis,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21226,Temple of Anubis,Shanghai Dragons,"['Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21227,Busan,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21227,Busan,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21227,Dorado,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21227,Dorado,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21227,King's Row,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Reinhardt', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21227,King's Row,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Tracer', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21227,Volskaya Industries,Paris Eternal,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Mercy', 'Pharah', 'Reinhardt', 'Roadhog', 'Soldier: 76', 'Sombra', 'Torbjörn', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21227,Volskaya Industries,Washington Justice,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Orisa', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21228,Dorado,Florida Mayhem,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21228,Dorado,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21228,Hollywood,Florida Mayhem,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21228,Hollywood,Washington Justice,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21228,Ilios,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21228,Ilios,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21228,Nepal,Florida Mayhem,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21228,Nepal,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21228,Volskaya Industries,Florida Mayhem,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21228,Volskaya Industries,Washington Justice,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
 21229,Eichenwalde,New York Excelsior,"['Ana', 'Baptiste', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Mercy', 'Orisa', 'Pharah', 'Reaper', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21229,Eichenwalde,Shanghai Dragons,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21229,Hanamura,New York Excelsior,"['Ana', 'Ashe', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
@@ -2371,6 +2667,56 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21230,Junkertown,Washington Justice,"['Ana', 'Ashe', 'Brigitte', 'D.Va', 'Hanzo', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21230,Lijiang Tower,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21230,Lijiang Tower,Washington Justice,"['Ana', 'Junkrat', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",lose,lose,2019.0
+21231,Horizon Lunar Colony,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21231,Horizon Lunar Colony,Seoul Dynasty,"['Ana', 'Ashe', 'Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Sombra', 'Symmetra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21231,Ilios,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21231,Ilios,Seoul Dynasty,"['Ana', 'Ashe', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya']",lose,win,2019.0
+21231,King's Row,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Symmetra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21231,King's Row,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21231,Route 66,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reaper', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21231,Route 66,Seoul Dynasty,"['Ana', 'Ashe', 'Bastion', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21232,Nepal,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21232,Nepal,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21232,Numbani,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reaper', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21232,Numbani,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21232,Route 66,Florida Mayhem,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21232,Route 66,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21232,Temple of Anubis,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Hanzo', 'Lúcio', 'Mei', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21232,Temple of Anubis,Philadelphia Fusion,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Mei', 'Mercy', 'Pharah', 'Reaper', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21233,Hollywood,Chengdu Hunters,"['Ashe', 'Brigitte', 'D.Va', 'Hanzo', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21233,Hollywood,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21233,Horizon Lunar Colony,Chengdu Hunters,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Genji', 'Junkrat', 'Lúcio', 'Mei', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Symmetra', 'Torbjörn', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21233,Horizon Lunar Colony,Seoul Dynasty,"['Ana', 'Ashe', 'Brigitte', 'D.Va', 'Genji', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Symmetra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21233,Ilios,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21233,Ilios,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21233,Rialto,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21233,Rialto,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21234,Busan,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Roadhog', 'Sombra', 'Wrecking Ball', 'Zarya']",win,win,2019.0
+21234,Busan,Florida Mayhem,"['Ana', 'Lúcio', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball']",lose,lose,2019.0
+21234,King's Row,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reaper', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21234,King's Row,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya']",win,lose,2019.0
+21234,Nepal,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21234,Nepal,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21234,Rialto,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21234,Rialto,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21234,Temple of Anubis,Chengdu Hunters,"['Ana', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",win,win,2019.0
+21234,Temple of Anubis,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21235,Hollywood,Houston Outlaws,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21235,Hollywood,New York Excelsior,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21235,Nepal,Houston Outlaws,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21235,Nepal,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21235,Route 66,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Genji', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21235,Route 66,New York Excelsior,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21235,Temple of Anubis,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21235,Temple of Anubis,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21236,Dorado,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21236,Dorado,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21236,Hollywood,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21236,Hollywood,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21236,Horizon Lunar Colony,Paris Eternal,"['Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21236,Horizon Lunar Colony,San Francisco Shock,"['Bastion', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21236,Nepal,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21236,Nepal,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
 21237,Eichenwalde,Florida Mayhem,"['Ana', 'Baptiste', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'McCree', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reaper', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21237,Eichenwalde,London Spitfire,"['Ana', 'Baptiste', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Mei', 'Mercy', 'Moira', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
 21237,Hanamura,Florida Mayhem,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Symmetra', 'Torbjörn', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
@@ -2403,6 +2749,60 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21240,Paris,Washington Justice,"['Baptiste', 'Bastion', 'D.Va', 'Hanzo', 'Mercy', 'Orisa', 'Pharah', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball']",win,lose,2019.0
 21240,Rialto,Atlanta Reign,"['Ana', 'Baptiste', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Roadhog', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21240,Rialto,Washington Justice,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21241,Hollywood,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21241,Hollywood,Florida Mayhem,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21241,Ilios,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Sombra', 'Torbjörn', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21241,Ilios,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Soldier: 76', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21241,Route 66,Atlanta Reign,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Genji', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21241,Route 66,Florida Mayhem,"['Ashe', 'Bastion', 'Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21241,Volskaya Industries,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Mei', 'Moira', 'Orisa', 'Reaper', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Symmetra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21241,Volskaya Industries,Florida Mayhem,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Symmetra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21242,Hollywood,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21242,Hollywood,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21242,Ilios,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21242,Ilios,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21242,Nepal,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21242,Nepal,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21242,Rialto,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21242,Rialto,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21242,Volskaya Industries,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21242,Volskaya Industries,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Mei', 'Mercy', 'Pharah', 'Reaper', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21243,Dorado,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21243,Dorado,Paris Eternal,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Zarya', 'Zenyatta']",win,win,2019.0
+21243,Nepal,Los Angeles Gladiators,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21243,Nepal,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21243,Numbani,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21243,Numbani,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21243,Temple of Anubis,Los Angeles Gladiators,"['Ana', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21243,Temple of Anubis,Paris Eternal,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21244,Busan,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21244,Busan,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Winston', 'Wrecking Ball', 'Zarya']",win,win,2019.0
+21244,King's Row,San Francisco Shock,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21244,King's Row,Vancouver Titans,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Tracer', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21244,Route 66,San Francisco Shock,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21244,Route 66,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21244,Volskaya Industries,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21244,Volskaya Industries,Vancouver Titans,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21245,Dorado,Dallas Fuel,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21245,Dorado,Shanghai Dragons,"['Ana', 'Brigitte', 'Lúcio', 'Reaper', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21245,Ilios,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21245,Ilios,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21245,Nepal,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21245,Nepal,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21245,Numbani,Dallas Fuel,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21245,Numbani,Shanghai Dragons,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21245,Volskaya Industries,Dallas Fuel,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21245,Volskaya Industries,Shanghai Dragons,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21246,Busan,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21246,Busan,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21246,Nepal,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21246,Nepal,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21246,Numbani,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21246,Numbani,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21246,Route 66,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21246,Route 66,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21246,Temple of Anubis,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21246,Temple of Anubis,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
 21247,Junkertown,Florida Mayhem,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Roadhog', 'Torbjörn', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21247,Junkertown,Philadelphia Fusion,"['Baptiste', 'Brigitte', 'D.Va', 'Hanzo', 'Junkrat', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Roadhog', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21247,King's Row,Florida Mayhem,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
@@ -2435,6 +2835,56 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21250,Temple of Anubis,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Moira', 'Reinhardt', 'Soldier: 76', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21250,Watchpoint: Gibraltar,Houston Outlaws,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21250,Watchpoint: Gibraltar,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Roadhog', 'Symmetra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21251,Busan,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21251,Busan,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21251,Dorado,Hangzhou Spark,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Roadhog', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21251,Dorado,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21251,Nepal,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21251,Nepal,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21251,Numbani,Hangzhou Spark,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21251,Numbani,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21251,Temple of Anubis,Hangzhou Spark,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Mei', 'Mercy', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21251,Temple of Anubis,Los Angeles Valiant,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21252,Hollywood,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21252,Hollywood,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21252,Ilios,Philadelphia Fusion,"['Ashe', 'Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21252,Ilios,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21252,Route 66,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21252,Route 66,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21252,Temple of Anubis,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21252,Temple of Anubis,Washington Justice,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21253,Busan,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21253,Busan,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21253,Dorado,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Orisa', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21253,Dorado,Toronto Defiant,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21253,King's Row,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Pharah', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21253,King's Row,Toronto Defiant,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21253,Temple of Anubis,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21253,Temple of Anubis,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Pharah', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21254,Hollywood,Hangzhou Spark,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21254,Hollywood,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21254,Nepal,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21254,Nepal,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21254,Route 66,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Symmetra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21254,Route 66,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21254,Volskaya Industries,Hangzhou Spark,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21254,Volskaya Industries,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21255,Busan,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21255,Busan,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21255,Dorado,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21255,Dorado,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21255,Numbani,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21255,Numbani,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21255,Volskaya Industries,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21255,Volskaya Industries,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21256,Busan,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21256,Busan,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Pharah', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21256,Horizon Lunar Colony,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21256,Horizon Lunar Colony,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21256,King's Row,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Reinhardt', 'Tracer', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21256,King's Row,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21256,Rialto,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21256,Rialto,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
 21257,Blizzard World,Florida Mayhem,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Torbjörn', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21257,Blizzard World,Paris Eternal,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Hanzo', 'Lúcio', 'McCree', 'Mercy', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21257,Hanamura,Florida Mayhem,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Sombra', 'Torbjörn', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
@@ -2469,6 +2919,76 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21260,Paris,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
 21260,Watchpoint: Gibraltar,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21260,Watchpoint: Gibraltar,Hangzhou Spark,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Orisa', 'Reinhardt', 'Roadhog', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21261,Dorado,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21261,Dorado,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21261,Ilios,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Torbjörn', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21261,Ilios,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21261,King's Row,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21261,King's Row,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21261,Nepal,Atlanta Reign,"['Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Orisa', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21261,Nepal,Philadelphia Fusion,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21261,Volskaya Industries,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21261,Volskaya Industries,Philadelphia Fusion,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reaper', 'Reinhardt', 'Sombra', 'Symmetra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21262,Hollywood,Hangzhou Spark,"['Ashe', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21262,Hollywood,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21262,Ilios,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21262,Ilios,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Moira', 'Orisa', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21262,Route 66,Hangzhou Spark,"['Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Symmetra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21262,Route 66,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21262,Temple of Anubis,Hangzhou Spark,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21262,Temple of Anubis,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21263,Hollywood,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21263,Hollywood,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21263,Ilios,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Orisa', 'Reinhardt', 'Torbjörn', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21263,Ilios,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Symmetra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21263,Route 66,Atlanta Reign,"['Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",win,win,2019.0
+21263,Route 66,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21263,Temple of Anubis,Atlanta Reign,"['Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21263,Temple of Anubis,Paris Eternal,"['Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Roadhog', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21264,Dorado,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21264,Dorado,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21264,Ilios,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21264,Ilios,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21264,Numbani,New York Excelsior,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21264,Numbani,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21264,Volskaya Industries,New York Excelsior,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21264,Volskaya Industries,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21265,Busan,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21265,Busan,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21265,Dorado,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21265,Dorado,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21265,Hollywood,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Symmetra', 'Tracer', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21265,Hollywood,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21265,Temple of Anubis,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Mei', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21265,Temple of Anubis,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21266,Ilios,London Spitfire,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21266,Ilios,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21266,King's Row,London Spitfire,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21266,King's Row,Shanghai Dragons,"['Ana', 'Brigitte', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21266,Nepal,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21266,Nepal,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21266,Route 66,London Spitfire,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21266,Route 66,Shanghai Dragons,"['Ana', 'Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21266,Temple of Anubis,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21266,Temple of Anubis,Shanghai Dragons,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21267,Dorado,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21267,Dorado,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21267,Ilios,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21267,Ilios,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21267,King's Row,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21267,King's Row,Dallas Fuel,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21267,Nepal,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21267,Nepal,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21267,Volskaya Industries,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21267,Volskaya Industries,Dallas Fuel,"['Ana', 'Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21268,Dorado,Guangzhou Charge,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21268,Dorado,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Zarya']",win,win,2019.0
+21268,Ilios,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21268,Ilios,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Moira', 'Orisa', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21268,Numbani,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21268,Numbani,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21268,Volskaya Industries,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21268,Volskaya Industries,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
 21269,Busan,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21269,Busan,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21269,Eichenwalde,Guangzhou Charge,"['Ana', 'Ashe', 'Baptiste', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Mei', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
@@ -2485,6 +3005,40 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21270,Paris,Toronto Defiant,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Genji', 'Junkrat', 'Lúcio', 'McCree', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21270,Rialto,Dallas Fuel,"['Baptiste', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21270,Rialto,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21271,Busan,Dallas Fuel,"['Ana', 'Brigitte', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21271,Busan,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Zarya']",lose,lose,2019.0
+21271,King's Row,Dallas Fuel,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21271,King's Row,Seoul Dynasty,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Roadhog', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21271,Rialto,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21271,Rialto,Seoul Dynasty,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21271,Volskaya Industries,Dallas Fuel,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21271,Volskaya Industries,Seoul Dynasty,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21272,Busan,Dallas Fuel,"['Ana', 'Lúcio', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball']",lose,lose,2019.0
+21272,Busan,Guangzhou Charge,"['Ana', 'Lúcio', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball']",win,win,2019.0
+21272,Hollywood,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21272,Hollywood,Guangzhou Charge,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Moira', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21272,Route 66,Dallas Fuel,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21272,Route 66,Guangzhou Charge,"['Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21272,Temple of Anubis,Dallas Fuel,"['Bastion', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Reinhardt', 'Sombra', 'Symmetra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21272,Temple of Anubis,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21273,Nepal,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21273,Nepal,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21273,Numbani,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21273,Numbani,Washington Justice,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21273,Route 66,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21273,Route 66,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21273,Temple of Anubis,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21273,Temple of Anubis,Washington Justice,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21274,Hollywood,Chengdu Hunters,"['Ashe', 'D.Va', 'Hanzo', 'Junkrat', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",win,lose,2019.0
+21274,Hollywood,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21274,Ilios,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21274,Ilios,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Winston', 'Zarya']",win,win,2019.0
+21274,Nepal,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21274,Nepal,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21274,Route 66,Chengdu Hunters,"['Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21274,Route 66,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21274,Temple of Anubis,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21274,Temple of Anubis,Vancouver Titans,"['Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
 21275,Blizzard World,Toronto Defiant,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21275,Blizzard World,Washington Justice,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21275,Hanamura,Toronto Defiant,"['Ana', 'Baptiste', 'Bastion', 'D.Va', 'Mercy', 'Orisa', 'Pharah', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball']",win,win,2019.0
@@ -2533,6 +3087,38 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21280,Oasis,Shanghai Dragons,"['Ana', 'Brigitte', 'Doomfist', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21280,Temple of Anubis,Houston Outlaws,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zenyatta']",lose,lose,2019.0
 21280,Temple of Anubis,Shanghai Dragons,"['Ashe', 'Brigitte', 'D.Va', 'Genji', 'Junkrat', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Roadhog', 'Soldier: 76', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21281,Horizon Lunar Colony,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21281,Horizon Lunar Colony,Shanghai Dragons,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21281,Ilios,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21281,Ilios,Shanghai Dragons,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21281,King's Row,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reaper', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21281,King's Row,Shanghai Dragons,"['Ana', 'Brigitte', 'Hanzo', 'Lúcio', 'Pharah', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21281,Rialto,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21281,Rialto,Shanghai Dragons,"['Ana', 'Brigitte', 'Lúcio', 'Reinhardt', 'Roadhog', 'Sombra', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21282,Busan,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21282,Busan,Philadelphia Fusion,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21282,Dorado,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21282,Dorado,Philadelphia Fusion,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21282,Horizon Lunar Colony,Dallas Fuel,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21282,Horizon Lunar Colony,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21282,Numbani,Dallas Fuel,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21282,Numbani,Philadelphia Fusion,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Pharah', 'Reinhardt', 'Roadhog', 'Sombra', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21283,Ilios,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21283,Ilios,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21283,King's Row,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21283,King's Row,Toronto Defiant,"['Ana', 'Brigitte', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21283,Route 66,Chengdu Hunters,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mei', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21283,Route 66,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21283,Volskaya Industries,Chengdu Hunters,"['Ana', 'Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Torbjörn', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21283,Volskaya Industries,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reinhardt', 'Sombra', 'Symmetra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21284,King's Row,Hangzhou Spark,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Roadhog', 'Soldier: 76', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21284,King's Row,Toronto Defiant,"['Ashe', 'Brigitte', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21284,Nepal,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21284,Nepal,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21284,Rialto,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21284,Rialto,Toronto Defiant,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21284,Volskaya Industries,Hangzhou Spark,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21284,Volskaya Industries,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
 21285,Blizzard World,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Symmetra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
 21285,Blizzard World,Philadelphia Fusion,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
 21285,Busan,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
@@ -2581,6 +3167,24 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21290,Numbani,Paris Eternal,"['Ana', 'Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21290,Volskaya Industries,New York Excelsior,"['Ana', 'Brigitte', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
 21290,Volskaya Industries,Paris Eternal,"['Brigitte', 'Doomfist', 'Hanzo', 'Lúcio', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21291,Hollywood,Guangzhou Charge,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21291,Hollywood,Vancouver Titans,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21291,Ilios,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21291,Ilios,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21291,Nepal,Guangzhou Charge,"['Ana', 'Brigitte', 'Lúcio', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya']",win,lose,2019.0
+21291,Nepal,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya']",lose,win,2019.0
+21291,Route 66,Guangzhou Charge,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21291,Route 66,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21291,Volskaya Industries,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21291,Volskaya Industries,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21292,Busan,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21292,Busan,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21292,King's Row,Atlanta Reign,"['Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21292,King's Row,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21292,Rialto,Atlanta Reign,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21292,Rialto,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21292,Temple of Anubis,Atlanta Reign,"['Brigitte', 'D.Va', 'Doomfist', 'Junkrat', 'Lúcio', 'Mei', 'Mercy', 'Orisa', 'Reinhardt', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21292,Temple of Anubis,Los Angeles Gladiators,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
 21293,Busan,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21293,Busan,Boston Uprising,"['Ana', 'Brigitte', 'Lúcio', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya']",win,win,2019.0
 21293,Eichenwalde,Atlanta Reign,"['Baptiste', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
@@ -2651,6 +3255,40 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21300,Paris,San Francisco Shock,"['Ana', 'Baptiste', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
 21300,Watchpoint: Gibraltar,Atlanta Reign,"['Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21300,Watchpoint: Gibraltar,San Francisco Shock,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21301,Dorado,Hangzhou Spark,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mercy', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21301,Dorado,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21301,Horizon Lunar Colony,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reaper', 'Reinhardt', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21301,Horizon Lunar Colony,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21301,Ilios,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21301,Ilios,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21301,Numbani,Hangzhou Spark,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21301,Numbani,London Spitfire,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21302,Busan,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21302,Busan,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Soldier: 76', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21302,Hollywood,Boston Uprising,"['Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reinhardt', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21302,Hollywood,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21302,Rialto,Boston Uprising,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21302,Rialto,Toronto Defiant,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21302,Temple of Anubis,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21302,Temple of Anubis,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reaper', 'Reinhardt', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21303,Horizon Lunar Colony,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21303,Horizon Lunar Colony,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Sombra', 'Symmetra', 'Zarya', 'Zenyatta']",win,win,2019.0
+21303,Ilios,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21303,Ilios,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Orisa', 'Reinhardt', 'Tracer', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
+21303,Numbani,Paris Eternal,"['Brigitte', 'D.Va', 'Genji', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21303,Numbani,Vancouver Titans,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21303,Rialto,Paris Eternal,"['Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21303,Rialto,Vancouver Titans,"['Brigitte', 'D.Va', 'Lúcio', 'Pharah', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21304,Busan,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21304,Busan,Chengdu Hunters,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21304,Horizon Lunar Colony,Atlanta Reign,"['Ana', 'Bastion', 'D.Va', 'Genji', 'Lúcio', 'Mercy', 'Orisa', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21304,Horizon Lunar Colony,Chengdu Hunters,"['Ana', 'Genji', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Sombra', 'Torbjörn', 'Tracer', 'Widowmaker', 'Wrecking Ball', 'Zenyatta']",win,win,2019.0
+21304,Nepal,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Moira', 'Reinhardt', 'Soldier: 76', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21304,Nepal,Chengdu Hunters,"['Ana', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Pharah', 'Sombra', 'Wrecking Ball', 'Zenyatta']",win,win,2019.0
+21304,Numbani,Atlanta Reign,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21304,Numbani,Chengdu Hunters,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Pharah', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21304,Rialto,Atlanta Reign,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21304,Rialto,Chengdu Hunters,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Mei', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
 21305,Busan,Boston Uprising,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Roadhog', 'Soldier: 76', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
 21305,Busan,Toronto Defiant,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
 21305,Eichenwalde,Boston Uprising,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Orisa', 'Reinhardt', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
@@ -2705,6 +3343,22 @@ match_id,map_name,team_name,team_comp,match_win,map_win,year
 21310,Nepal,Philadelphia Fusion,"['Ana', 'Lúcio', 'Mercy', 'Pharah', 'Sombra', 'Tracer', 'Widowmaker', 'Wrecking Ball']",win,win,2019.0
 21310,Numbani,Boston Uprising,"['Ana', 'Baptiste', 'Bastion', 'Brigitte', 'D.Va', 'Lúcio', 'Mercy', 'Moira', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya']",lose,lose,2019.0
 21310,Numbani,Philadelphia Fusion,"['Ana', 'Brigitte', 'D.Va', 'Genji', 'Hanzo', 'Lúcio', 'McCree', 'Mercy', 'Orisa', 'Roadhog', 'Sombra', 'Tracer', 'Widowmaker', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21311,King's Row,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21311,King's Row,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Doomfist', 'Hanzo', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21311,Nepal,Guangzhou Charge,"['Ana', 'Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'Pharah', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,lose,2019.0
+21311,Nepal,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Moira', 'Reinhardt', 'Roadhog', 'Tracer', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,win,2019.0
+21311,Rialto,Guangzhou Charge,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21311,Rialto,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Widowmaker', 'Zarya', 'Zenyatta']",win,win,2019.0
+21311,Temple of Anubis,Guangzhou Charge,"['Brigitte', 'D.Va', 'Hanzo', 'Lúcio', 'McCree', 'Mei', 'Moira', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21311,Temple of Anubis,Los Angeles Gladiators,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21312,Busan,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21312,Busan,Florida Mayhem,"['Ana', 'Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21312,Dorado,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Symmetra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21312,Dorado,Florida Mayhem,"['Brigitte', 'Lúcio', 'Reinhardt', 'Sombra', 'Tracer', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21312,Horizon Lunar Colony,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Mei', 'Reinhardt', 'Wrecking Ball', 'Zarya', 'Zenyatta']",win,win,2019.0
+21312,Horizon Lunar Colony,Florida Mayhem,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
+21312,Numbani,Boston Uprising,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Zarya', 'Zenyatta']",win,win,2019.0
+21312,Numbani,Florida Mayhem,"['Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Sombra', 'Winston', 'Wrecking Ball', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21313,Eichenwalde,New York Excelsior,"['Ana', 'Ashe', 'Brigitte', 'D.Va', 'Lúcio', 'McCree', 'Mercy', 'Orisa', 'Pharah', 'Reinhardt', 'Sombra', 'Widowmaker', 'Winston', 'Zarya', 'Zenyatta']",win,win,2019.0
 21313,Eichenwalde,Philadelphia Fusion,"['Baptiste', 'Brigitte', 'D.Va', 'Doomfist', 'Lúcio', 'Reinhardt', 'Winston', 'Zarya', 'Zenyatta']",lose,lose,2019.0
 21313,Lijiang Tower,New York Excelsior,"['Ana', 'Brigitte', 'D.Va', 'Lúcio', 'Reinhardt', 'Roadhog', 'Zarya', 'Zenyatta']",win,win,2019.0
